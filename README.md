@@ -16,4 +16,4 @@ Research finals.
 
 6.unplug CMOS is always need
 
-7.Fake CMOS (or CMOS KTS fake(palsu) made b Indonesia)
+7.Attacked byFake CMOS (or CMOS KTS fake(palsu) made b Indonesia)
