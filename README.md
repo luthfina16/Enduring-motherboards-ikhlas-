@@ -15,3 +15,5 @@ Research finals.
 5. (too prevent water and windy water and rat and other animal to enter pc
 
 6.unplug CMOS is always need
+
+7.Fake CMOS (or CMOS KTS fake(palsu) made b Indonesia)
