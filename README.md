@@ -19,6 +19,6 @@ Research finals.
 7.Attacked byFake CMOS (or CMOS KTS fake(palsu) made b Indonesia)
 
 
-8.fake CMOS cannot show latin & video a(not subtitle), before was played by PC?
+8.fake CMOS cannot show latin & video a(not subtitle), before was played by PC? dont play Letto-PH if CMOS NKRI APProved
 
 
