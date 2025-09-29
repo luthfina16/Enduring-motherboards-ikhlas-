@@ -13,3 +13,5 @@ Research finals.
 4. full closed your PC casing
 
 5. (too prevent water and windy water and rat and other animal to enter pc
+
+6.unplug CMOS is always need
