@@ -17,4 +17,8 @@ Research finals.
 6.unplug CMOS is always need
 
 7.Attacked byFake CMOS (or CMOS KTS fake(palsu) made b Indonesia)
-8.fake CMOS cannot show latin & video a(not subtitle)
+
+
+8.fake CMOS cannot show latin & video a(not subtitle), before was played by PC?
+
+
