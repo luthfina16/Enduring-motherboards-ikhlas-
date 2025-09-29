@@ -1,3 +1,4 @@
+Research finals.
 1.lower the electric that used by Motherboards
 
 
